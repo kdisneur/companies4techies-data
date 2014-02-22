@@ -1,0 +1,15 @@
+{
+  "name" : "Fitizzy",
+  "website" : "http://fitizzy.com/",
+  "types" : ["software_as_a_service"],
+  "technologies" : ["php", "git", "mysql", "mongodb", "jquery"],
+  "employees" : "less_than_5",
+  "created_at": "2014/02/01",
+  "locations" : [
+    {
+      "city" : "lille",
+      "country" : "france",
+      "coordinates" : { "lat" : 50.63335, "lon" : 3.02038 }
+    }
+  ]
+}

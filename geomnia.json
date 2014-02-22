@@ -1,0 +1,13 @@
+{
+  "name" : "Geomnia",
+  "website" : "http://www.geomnia.eu/",
+  "types" : ["software"],
+  "created_at": "2014/02/01",
+  "locations" : [
+    {
+      "city" : "lille",
+      "country" : "france",
+      "coordinates" : { "lat" : 50.63335, "lon" : 3.02038 }
+    }
+  ]
+}

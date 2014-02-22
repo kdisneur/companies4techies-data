@@ -1,0 +1,13 @@
+{
+  "name" : "Eenox",
+  "website" : "http://eenox.net/",
+  "types" : ["webagency", "software_as_a_service"],
+  "created_at": "2014/02/05",
+  "locations" : [
+    {
+      "city" : "lille",
+      "country" : "france",
+      "coordinates" : { "lat" : 50.63335, "lon" : 3.02038 }
+    }
+  ]
+}

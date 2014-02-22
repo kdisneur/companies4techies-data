@@ -1,0 +1,25 @@
+{
+  "name" : "awakit groupe",
+  "website" : "http://www.awakit-groupe.com/",
+  "technologies" : [],
+  "employees" : "between_10_and_20",
+  "types" : ["communication"],
+  "created_at": "2014/02/01",
+  "locations" : [
+    {
+      "city" : "Lambersart",
+      "country" : "France",
+      "coordinates" : { "lat" : 50.63335, "lon" : 3.02038 }
+    },
+    {
+      "city" : "Boulogne-Billancourt",
+      "country" : "France",
+      "coordinates" : { "lat" : 48.84116350000001, "lon" : 2.2372202000000243 }
+    },
+    {
+      "city" : "Lyon",
+      "country" : "France",
+      "coordinates" : { "lat" : 45.7620788, "lon" : 4.861912200000006 }
+    }
+  ]
+}

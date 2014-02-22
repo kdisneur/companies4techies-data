@@ -1,0 +1,14 @@
+{
+  "name" : "no parking",
+  "website" : "http://www.noparking.net/",
+  "types" : ["software_as_a_service", "webagency"],
+  "technologies" : ["asp", "php", "mysql", "postgresql"],
+  "created_at": "2014/02/05",
+  "locations" : [
+     {
+       "city" : "lambersart",
+       "country" : "france",
+       "coordinates" : { "lat" : 50.63335, "lon" : 3.02038 }
+     }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "adibox",
+  "website" : "http://www.adibox.com/",
+  "technologies" : ["php", "mysql", "jquery"],
+  "employees" : "less_than_5",
+  "types" : ["software_as_a_service"],
+  "created_at": "2014/02/01",
+  "locations" : [
+     {
+       "city" : "lille",
+       "country" : "france",
+       "coordinates" : { "lat" : 50.63335, "lon" : 3.02038 }
+     }
+  ]
+}

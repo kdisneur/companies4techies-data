@@ -1,0 +1,19 @@
+{
+  "name" : "DotSoft",
+  "website" : "http://www.dotsoft.fr/",
+  "employees" : "between_20_and_50",
+  "types" : ["software"],
+  "created_at": "2014/02/05",
+  "locations" : [
+    {
+      "city" : "calluire",
+      "country" : "france",
+      "coordinates" : { "lat" : 45.7901961, "lon" : 4.859252999999967 }
+    },
+    {
+      "city" : "lille",
+      "country" : "france",
+      "coordinates" : { "lat" : 50.63335, "lon" : 3.02038 }
+    }
+  ]
+}

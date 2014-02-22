@@ -1,0 +1,16 @@
+{
+  "name" : "Kyan",
+  "website" : "http://kyan.com",
+  "types" : ["webagency"],
+  "employees" : "between_20_and_50",
+  "technologies" : ["rubyonrails", "php"],
+  "remote" : false,
+  "created_at": "2014/02/01",
+  "locations" : [
+    {
+      "city" : "guildford",
+      "country" : "england",
+      "coordinates" : { "lat" : 51.23622, "lon" : -0.57104 }
+    }
+  ]
+}
