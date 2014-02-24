@@ -7,7 +7,7 @@ Available company properties:
 * logo (url)
 * website (url)
 * type (array of string). Values must be included in the following
-  list. The list can growth if needed but don't forget to update this file and the [translations files](https://github.com/kdisneur/tekusage/tree/master/app/javascripts/config/translations):
+  list. The list can growth if needed but don't forget to update this file and the [translations files in the web project](https://github.com/kdisneur/tekusage/tree/master/app/javascripts/config/translations):
   * `webagency`,
   * `service`,
   * `consulting`,
@@ -39,7 +39,7 @@ Available company properties:
 # Add a synonym
 
 * Go to the [companies4techies-api](https://github.com/kdisneur/companies4techies-api) project
-* Open the [synonym file](https://github.com/kdisneur/companies4techies-api/blob/master/elasticsearch/synonyms/technologies.txt)
+* Open the [synonym file](https://github.com/kdisneur/companies4techies-api/blob/master/config/synonyms/technologies.txt)
 * Search your technology
   * If it already exist: you have nothing to do
   * If it exists with a different name (ie: ror vs rails) :
