@@ -27,7 +27,7 @@ Available company properties:
   * `between_20_and_50`,
   * `between_50_and_100`,
   * `more_than_100`.
-* technologies (array of string. It must be the more precise technology/framework used (ie: symfony instead of php). And don't forget to check the [synonym file](https://github.com/kdisneur/tekusage/tree/master/elasticsearch/synonyms/technologies.txt) to [add your technology](#add-a-synonym) if missing)
+* technologies (array of string. It must be the more precise technology/framework used (ie: symfony instead of php). And don't forget to check the [synonym file](https://github.com/kdisneur/companies4techies-api/blob/master/config/synonyms/technologies.txt) to [add your technology](#add-a-synonym) if missing)
 * freelance (boolean. Company working with freelancers (occasionally or everytime))
 * remote (boolean)
 * part_time (boolean)
